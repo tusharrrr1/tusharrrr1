@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src=""https://raw.githubusercontent.com/tusharrrr1/tusharrrr1/main/farewell.png"" alt="Banner Image" width="100%" />
+  <img src=""https://raw.githubusercontent.com/tusharrrr1/tusharrrr1/main/farewell.jpg"" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Intro -->
