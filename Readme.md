@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src=""https://raw.githubusercontent.com/tusharrrr1/tusharrrr1/main/farewell.jpg"" alt="Banner Image" width="100%" />
+  <img src=""https://raw.githubusercontent.com/tusharrrr1/main/farewell.jpg"" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Intro -->
@@ -35,9 +35,9 @@
 ###  Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-Follow-lightblue?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tushar-kathuria-2797bb230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://x.com/Tushaaarrr1"><img src="https://img.shields.io/badge/Twitter-Follow-lightblue?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="tusharkathuria1897@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
