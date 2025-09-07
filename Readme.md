@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src=""C:\Users\hp\Downloads\farewll.jpg"" alt="Banner Image" width="100%" />
+  <img src=""farewll.jpg"" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Intro -->
