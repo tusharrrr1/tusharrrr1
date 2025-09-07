@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-image-host.com/your-banner.png" alt="Banner Image" width="100%" />
+  <img src=""C:\Users\hp\Downloads\farewll.jpg"" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Intro -->
 <p align="center">
   <h1>👋 Hey there, I'm Tushar Kathuria</h1>
-  <h3>Blockchain Dev • Full-Stack Engineer • Python Enthusiast</h3>
+  <h3>Blockchain Dev • Full-Stack Engineer</h3>
 </p>
 
 ---
@@ -23,25 +23,6 @@
 
 ---
 
-###  Highlight Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| **Blockchain Task Manager** | DApp built with Solidity, Hardhat, and React for transparent task tracking. | [Code](#) |
-| **Avalanche DeFi Clone** | A gamified DeFi project on Avalanche with smart contracts and tokenomics. | [Code](#) |
-| **Commodity Price Predictor** | ML-driven model in Python to forecast commodity trends. | [Code](#) |
-| **Image Processing Suite** | OpenCV/Matplotlib pipelines for image enhancement and analysis. | [Code](#) |
-
----
-
-###  GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharrrr1&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharrrr1&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
----
 
 ###  What I’m Exploring
 
